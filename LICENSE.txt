@@ -1,0 +1,95 @@
+PROPRIETARY SOFTWARE LICENSE AGREEMENT
+
+Effective Date: 7 February 2026
+Copyright © 2026 Epickod SMC-PVT Ltd. All Rights Reserved.
+
+
+1. OWNERSHIP
+
+This software, including all components, source code, object code, databases, designs, APIs, documentation, and related materials (the "Software"), is the exclusive property of Epickod SMC-PVT Ltd.
+
+The Software is licensed, not sold.
+
+No ownership rights are transferred to the user.
+
+
+2. LICENSE GRANT
+
+Subject to payment of applicable subscription or license fees, Epickod SMC-PVT Ltd grants the Licensee a limited, non-exclusive, non-transferable, non-sublicensable license to use the Software solely for its intended business or personal purposes.
+
+This license remains valid only during an active and fully paid subscription or valid license period.
+
+
+3. SUBSCRIPTION REQUIREMENT
+
+Use of the Software requires:
+
+- A valid paid subscription; or
+- A valid commercial license issued by Epickod SMC-PVT Ltd.
+
+If the subscription expires, payment fails, or the license becomes invalid, access to the Software may be suspended or terminated immediately.
+
+
+4. RESTRICTIONS
+
+The Licensee may NOT:
+
+- Copy the Software
+- Modify or create derivative works
+- Reverse engineer, decompile, or disassemble
+- Resell, rent, lease, sublicense, or distribute the Software
+- Remove copyright or proprietary notices
+- Share login credentials or license keys
+- Bypass subscription or license validation mechanisms
+- Use the Software to develop or support a competing product
+
+Any unauthorized use immediately terminates this license.
+
+
+5. NO REDISTRIBUTION
+
+The Software may not be redistributed, whether modified or unmodified, without prior written permission from Epickod SMC-PVT Ltd.
+
+
+6. INTELLECTUAL PROPERTY
+
+All intellectual property rights in and to the Software remain exclusively with Epickod SMC-PVT Ltd.
+
+Nothing in this Agreement grants any ownership rights to the Licensee.
+
+
+7. TERMINATION
+
+This Agreement automatically terminates if:
+
+- The subscription expires
+- License terms are violated
+- Unauthorized use is detected
+
+Upon termination, the Licensee must immediately cease all use of the Software.
+
+
+8. DISCLAIMER OF WARRANTIES
+
+The Software is provided "AS IS" without warranties of any kind, either express or implied.
+
+Epickod SMC-PVT Ltd does not guarantee uninterrupted or error-free operation.
+
+
+9. LIMITATION OF LIABILITY
+
+In no event shall Epickod SMC-PVT Ltd be liable for any indirect, incidental, special, or consequential damages, including loss of profits, business interruption, or data loss.
+
+Total liability shall not exceed the amount paid for the subscription or license.
+
+
+10. GOVERNING LAW
+
+This Agreement shall be governed by and construed in accordance with the laws of the Islamic Republic of Pakistan.
+
+
+11. ACCEPTANCE
+
+By installing, accessing, or using the Software, the Licensee agrees to be bound by this Agreement.
+
+If the Licensee does not agree to these terms, they must not use the Software.
